@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PPPAMI.Views"
+             xmlns:viewmodel="clr-namespace:PPPAMI"
+             x:Class="PPPAMI.Views.CharacterView"
+             Title="Character"
+             BackgroundColor="LightSkyBlue">
+
+    <ContentPage.BindingContext>
+        <viewmodel:CharacterViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+
+            <Label
+                Text="Ficha Personagem"
+                Margin="0, 15, 0, 0"
+                FontSize="16"
+                FontAttributes="Bold"
+                HorizontalTextAlignment="Center"/>
+
+            <Image
+                x:Name="personagem"
+                Source="personagemview.svg"
+                HeightRequest="150"
+                HorizontalOptions="Center"
+                Margin="25, 10, 25, 10"/>
+
+            <Entry Text="{Binding Name}" 
+                   Placeholder="Nome Aventureiro"
+                   Margin="0, 20, 0, 0"/>
+
+            <Label Text="Classe do aventureiro" />
+            <Picker ItemsSource="{Binding Classes}" 
+                    SelectedItem="{Binding SelectedClass}"/>
+
+            <Label Text="Nível do aventureiro" />
+            <Slider Minimum="1" 
+                    Maximum="10" 
+                    Value="{Binding Level}" 
+                    ValueChanged="OnSliderValueChanged"/>
+
+            <Label x:Name="levelLabel" Text="{Binding Level, StringFormat='Nível: {0}'}" />
+
+            <Label Text="Raça do aventureiro" />
+            <Picker ItemsSource="{Binding Races}" SelectedItem="{Binding SelectedRace}" />
+
+            <Button Text="Adicionar Personagem" Command="{Binding AddCharacterCommand}" />
+
+            <Label Text="{Binding ErrorMessage}" TextColor="Red" />
+
+            <CollectionView ItemsSource="{Binding Characters}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                    <Frame CornerRadius="10" BackgroundColor="LightGray" Padding="10" Margin="5">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Name}" FontAttributes="Bold" />
+                            <Label Text="{Binding Class}" />
+                            <Label Text="{Binding Level}" />
+                            <Label Text="{Binding Race}" />
+                        </VerticalStackLayout>
+                    </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

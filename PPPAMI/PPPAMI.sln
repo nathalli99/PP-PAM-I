@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPPAMI", "PPPAMI\PPPAMI.csproj", "{1403D61A-8DDC-4D52-B131-2FBC12B848BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1403D61A-8DDC-4D52-B131-2FBC12B848BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1403D61A-8DDC-4D52-B131-2FBC12B848BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1403D61A-8DDC-4D52-B131-2FBC12B848BB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1403D61A-8DDC-4D52-B131-2FBC12B848BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1403D61A-8DDC-4D52-B131-2FBC12B848BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1403D61A-8DDC-4D52-B131-2FBC12B848BB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF98E97E-6E69-4A58-BDCF-69D26D690209}
+	EndGlobalSection
+EndGlobal

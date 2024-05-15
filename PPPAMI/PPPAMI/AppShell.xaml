@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="PPPAMI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:PPPAMI"
+    xmlns:views="clr-namespace:PPPAMI.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="PPPAMI">
+
+    <TabBar>
+        <Tab Title="Home" Icon="home.svg">
+            <ShellContent Title="Home"
+                          ContentTemplate="{DataTemplate local:MainPage}"
+                          Route="MainPage"/>
+        </Tab>
+
+        <Tab Title="Dice" Icon="dice.svg">
+            <ShellContent Title="Dice"
+                          ContentTemplate="{DataTemplate local:Dice}"
+                          Route="Dice"/>
+        </Tab>
+
+        <Tab Title="Char" Icon="personagem.svg">
+            <ShellContent Title="Personagem"
+                          ContentTemplate="{DataTemplate views:CharacterView}"
+                          Route="Character"/>
+        </Tab>
+
+        <Tab Title="Time" Icon="time.svg">
+            <ShellContent Title="Time"
+                          ContentTemplate="{DataTemplate views:TeamView}"
+                          Route="Team"/>
+        </Tab>
+
+        <Tab Title="Options" Icon="settings.svg">
+            <ShellContent Title="Options"
+                          ContentTemplate="{DataTemplate local:Config}"
+                          Route="Config"/>
+        </Tab>
+    </TabBar>
+
+</Shell>
