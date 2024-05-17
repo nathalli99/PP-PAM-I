@@ -26,7 +26,7 @@
                FontFamily="Poppins_Semibold"
                FontSize="24" 
                FontAttributes="Bold"/>
-            
+
             <Image
             x:Name="joystick"
             Source="joystick.svg"

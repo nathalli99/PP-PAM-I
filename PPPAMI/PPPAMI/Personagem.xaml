@@ -1,0 +1,106 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PPPAMI.Personagem"
+             Title="Character"
+             BackgroundColor="LightSkyBlue">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+            <Label
+                Text="Ficha Personagem"
+                Margin="0, 15, 0, 0"
+                FontSize="24"
+                FontAttributes="Bold"
+                TextColor="DarkBlue"
+                FontFamily="Poppins"
+                HorizontalTextAlignment="Center"/>
+
+            <Image
+                x:Name="personagem"
+                Source="personagemview.svg"
+                SemanticProperties.Description="Gladiador"
+                HeightRequest="200"
+                HorizontalOptions="Center"
+                Margin="25, 10, 25, 10"/>
+
+            <Entry x:Name="nomeEntry" 
+                   Placeholder="Nome do Aventureiro"
+                   Margin="0, 20, 0, 0"/>
+
+            <Label Text="Classe do Aventureiro" />
+            <Picker x:Name="classePicker">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mago</x:String>
+                        <x:String>Assassino</x:String>
+                        <x:String>Lutador</x:String>
+                        <x:String>Suporte</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Label Text="Nível do Aventureiro: 1" 
+                   x:Name="nivelLabel"/>
+
+            <Slider x:Name="nivelSlider" 
+                    Maximum="10" 
+                    Minimum="1" 
+                    ValueChanged="NivelSlider_ValueChanged"/>
+
+            <Label Text="Raça do Aventureiro" />
+            <Picker x:Name="racaPicker">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Humano</x:String>
+                        <x:String>Elfo</x:String>
+                        <x:String>Anão</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Button Text="Adicionar Personagem"
+                    FontAttributes="Bold"
+                    FontFamily="Poppins"
+                    FontSize="17"
+                    Clicked="AdicionarPersonagem_Clicked"
+                    Margin="0, 20, 0, 5"/>
+
+            <StackLayout x:Name="personagensLayout" />
+
+            <Label Text="Lista de personagens" 
+                   FontSize="16" 
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   Margin="0, 20, 0, 5" />
+
+            <Label Text="Selecione personagens para o time ↷ " 
+                   FontSize="16" 
+                   HorizontalOptions="Center"
+                   Margin="0, 20, 0, 5" />
+
+            <ListView x:Name="aventureirosListView"
+                      ItemTapped="OnAventureiroTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Nome}" Detail="{Binding Classe}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Label Text="Time" 
+                   FontSize="16" 
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   Margin="0, 20, 0, 5" />
+
+            <Frame BackgroundColor="LightCyan" 
+                   CornerRadius="20"
+                   Padding="0"
+                   HasShadow="True"
+                   Margin="10">
+                <StackLayout x:Name="equipeLayout"/>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

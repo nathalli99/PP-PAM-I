@@ -670,3 +670,5 @@ D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\PPPAM
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\time@3x.png
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\time@2x.png
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\time.png
+D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\PPPAMI.sourcelink.json
+D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs

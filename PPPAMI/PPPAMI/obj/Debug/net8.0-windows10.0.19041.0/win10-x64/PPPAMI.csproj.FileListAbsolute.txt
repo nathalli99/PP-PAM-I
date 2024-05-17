@@ -257,7 +257,6 @@ D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microso
 D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
-D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
 D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -448,3 +447,6 @@ D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizet
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\time.scale-150.png
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\time.scale-200.png
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\time.scale-400.png
+D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PPPAMI.sourcelink.json
+D:\PP-PAM-I\PPPAMI\PPPAMI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs

@@ -46,6 +46,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[D:/PP-PAM-I/PPPAMI/PPPAMI/Personagem.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Personagem.xaml
+build_metadata.AdditionalFiles.TargetPath = Personagem.xaml
+build_metadata.AdditionalFiles.RelativePath = Personagem.xaml
+
 [D:/PP-PAM-I/PPPAMI/PPPAMI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Resources.Styles.Colors.xaml
@@ -57,15 +63,3 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
-
-[D:/PP-PAM-I/PPPAMI/PPPAMI/Views/CharacterView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Views.CharacterView.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\CharacterView.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\CharacterView.xaml
-
-[D:/PP-PAM-I/PPPAMI/PPPAMI/Views/TeamView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Views.TeamView.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\TeamView.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\TeamView.xaml

@@ -14,10 +14,7 @@
     <MauiXaml Update="Dice.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Views\CharacterView.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
-    <MauiXaml Update="Views\TeamView.xaml">
+    <MauiXaml Update="Personagem.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
