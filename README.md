@@ -24,5 +24,5 @@ Projeto avaliativo da matéria PAM do curso de Desenvolvimento de Sistemas da Et
 ![Interface](https://github.com/nathalli99/PP-PAM-I/assets/124949105/819c9fd7-2481-456f-8ab2-ff056ed0b5f9)
 ![Interface](https://github.com/nathalli99/PP-PAM-I/assets/124949105/4f9d4549-8d2a-404d-b4c6-73bfbb9185f8)
 ## Rolador de dados
-![Dado](https://github.com/nathalli99/PP-PAM-I/assets/124949105/e565f348-db5e-4d8f-b9df-2e4abf9266f3)
+![Dado](https://github.com/nathalli99/PP-PAM-I/assets/124949105/e9f19913-4e2a-4647-97c9-7d6934b2b69e)
 ![Dado](https://github.com/nathalli99/PP-PAM-I/assets/124949105/0e138f03-bcb2-46f9-86da-79ba48f74583)
