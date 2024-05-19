@@ -24,7 +24,7 @@ namespace PPPAMI
 
             if (string.IsNullOrEmpty(nome) || string.IsNullOrEmpty(classe) || string.IsNullOrEmpty(raca))
             {
-                DisplayAlert("Erro", "Por favor, preencha todos os campos corretamente.", "OK");
+                DisplayAlert("Erro", "Preencha todos os campos corretamente.", "OK");
                 return;
             }
 
@@ -63,7 +63,7 @@ namespace PPPAMI
 
             if (equipe.Count >= 5)
             {
-                DisplayAlert("Erro", "Já existem 5 aventureiros na sua equipe!", "OK");
+                DisplayAlert("Erro", "Seu time já tem 5 aventureiros!", "OK");
                 return;
             }
 

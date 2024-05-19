@@ -2100,7 +2100,6 @@ D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\t
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\time.png
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\time.png
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\time.png
-D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\resizetizer\A52E68AE06E1868A-files.cache
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\resizetizer\2E90E89EAD89A570-files.cache
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\lp\91\jl\files.cache
@@ -2156,7 +2155,6 @@ D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\lp\155\jl\files.cache
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\lp\156\jl\files.cache
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\lp\157\jl\files.cache
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\PPPAMI.csproj.CoreCompileInputs.cache
-D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\PPPAMI.sourcelink.json
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\XamlC.stamp
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\mauiimage.outputs
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\FragmentManagerExtensions_CallBacks.java
@@ -2170,3 +2168,4 @@ D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\android\compressed_assemblies
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\android\marshal_methods.arm64-v8a.o
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\android\jni_remap.arm64-v8a.o
 D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\PP-PAM-I\PPPAMI\PPPAMI\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\PP-PAM-I\\PPPAMI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\personagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\personagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\personagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\personagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\personagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\personagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -88,7 +92,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,31 +100,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Personagem.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml",
+              "RelativeDocumentMoniker": "PPPAMI\\Personagem.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml",
+              "RelativeToolTip": "PPPAMI\\Personagem.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T02:28:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Personagem.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Personagem.xaml.cs",
               "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
               "RelativeToolTip": "PPPAMI\\Personagem.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T23:22:19.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Personagem.xaml.cs",
               "DocumentMoniker": "C:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
               "ToolTip": "C:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T23:21:04.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T23:21:04.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Dice.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Dice.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Dice.xaml",
@@ -128,25 +143,23 @@
               "RelativeToolTip": "PPPAMI\\Dice.xaml",
               "ViewState": "AQIAAD8AAAAAAAAAAAAmwFUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T21:14:44.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:14:44.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\MainPage.xaml",
               "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml",
               "RelativeToolTip": "PPPAMI\\MainPage.xaml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T21:18:08.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:18:08.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Dice.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Dice.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Dice.xaml.cs",
@@ -158,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\MainPage.xaml.cs",
@@ -166,12 +179,11 @@
               "RelativeToolTip": "PPPAMI\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:19:05.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:19:05.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MauiProgram.cs",
               "RelativeDocumentMoniker": "PPPAMI\\MauiProgram.cs",
@@ -183,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Config.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Config.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Config.xaml.cs",
@@ -195,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Config.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Config.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Config.xaml",
@@ -207,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml.cs",
@@ -215,12 +227,11 @@
               "RelativeToolTip": "PPPAMI\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:11:00.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:11:00.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PPPAMI.csproj",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
               "RelativeDocumentMoniker": "PPPAMI\\PPPAMI.csproj",
@@ -228,12 +239,11 @@
               "RelativeToolTip": "PPPAMI\\PPPAMI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-12T21:25:55.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:25:55.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml",
@@ -241,12 +251,11 @@
               "RelativeToolTip": "PPPAMI\\AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T21:10:15.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:10:15.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\App.xaml",
@@ -254,12 +263,11 @@
               "RelativeToolTip": "PPPAMI\\App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T21:09:34.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:09:34.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -269,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\App.xaml.cs",
@@ -281,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Styles.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Resources\\Styles\\Styles.xaml",
@@ -293,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\MainApplication.cs",
@@ -305,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
@@ -316,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\MainActivity.cs",
@@ -328,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PPPAMI\\Properties\\launchSettings.json",
