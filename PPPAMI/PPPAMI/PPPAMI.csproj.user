@@ -7,14 +7,17 @@
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
     <DefaultDevice>pixel_5_-_api_34</DefaultDevice>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-android|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="Config.xaml">
+    <MauiXaml Update="Views\ConfigView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Dice.xaml">
+    <MauiXaml Update="Views\DiceView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Personagem.xaml">
+    <MauiXaml Update="Views\PersonagemView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

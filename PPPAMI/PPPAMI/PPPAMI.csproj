@@ -91,13 +91,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Config.xaml">
+	  <MauiXaml Update="Views\ConfigView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Dice.xaml">
+	  <MauiXaml Update="Views\DiceView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Personagem.xaml">
+	  <MauiXaml Update="Views\PersonagemView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

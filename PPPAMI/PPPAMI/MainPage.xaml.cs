@@ -1,13 +1,9 @@
-﻿namespace PPPAMI;
+﻿namespace PPPAMI.Views;
 
-    public partial class MainPage : ContentPage
+public partial class MainPage : ContentPage
+{
+    public MainPage()
     {
-
-        public MainPage()
-        {
-            InitializeComponent();
-        }
-
+        InitializeComponent();
     }
-
-
+}

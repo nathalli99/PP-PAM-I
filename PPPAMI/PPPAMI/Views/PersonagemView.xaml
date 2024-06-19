@@ -1,0 +1,119 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PPPAMI.ViewModels"
+             x:Class="PPPAMI.Views.PersonagemView"
+             Title="Character"
+             BackgroundColor="LightSkyBlue">
+
+    <ContentPage.BindingContext>
+        <local:PersonagemViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+            <Label
+                Text="Ficha Personagem"
+                Margin="0, 15, 0, 0"
+                FontSize="24"
+                FontAttributes="Bold"
+                TextColor="DarkBlue"
+                FontFamily="Poppins"
+                HorizontalTextAlignment="Center"/>
+
+            <Image
+                x:Name="personagem"
+                Source="personagemview.svg"
+                SemanticProperties.Description="Gladiador"
+                HeightRequest="200"
+                HorizontalOptions="Center"
+                Margin="25, 10, 25, 10"/>
+
+            <Entry x:Name="nomeEntry" 
+                   Placeholder="Nome do Aventureiro"
+                   Text="{Binding Nome}"
+                   Margin="0, 20, 0, 0"/>
+
+            <Label Text="Classe do Aventureiro" />
+            <Picker x:Name="classePicker"
+                    ItemsSource="{Binding Classes}"
+                    SelectedItem="{Binding Classe}"/>
+
+            <Label Text="{Binding Nivel, StringFormat='Nível do Aventureiro: {0}'}" 
+                   x:Name="nivelLabel"/>
+
+            <Stepper x:Name="nivelStepper"
+                     Maximum="10"
+                     Minimum="1"
+                     Increment="1"
+                     Value="{Binding Nivel, Mode=TwoWay}" />
+
+            <Label Text="Raça do Aventureiro" />
+            <Picker x:Name="racaPicker"
+                    ItemsSource="{Binding Racas}"
+                    SelectedItem="{Binding Raca}"/>
+
+            <Button Text="Adicionar Personagem"
+                    FontAttributes="Bold"
+                    FontFamily="Poppins"
+                    FontSize="17"
+                    Command="{Binding AddPersonagemCommand}"
+                    Margin="0, 20, 0, 5"/>
+
+            <Label Text="Lista de personagens" 
+                   FontSize="16" 
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   Margin="0, 20, 0, 5" />
+
+            <Label Text="Selecione personagens para o time ↷ " 
+                   FontSize="16" 
+                   HorizontalOptions="Center"
+                   Margin="0, 20, 0, 5" />
+
+            <ListView x:Name="aventureirosListView"
+                      ItemsSource="{Binding Personagens}"
+                      SelectedItem="{Binding SelectedPersonagem}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Nome}" 
+                                  Detail="{Binding Classe}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Label Text="Time" 
+                   FontSize="16" 
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   Margin="0, 20, 0, 5" />
+
+            <Frame BackgroundColor="DeepSkyBlue" 
+                   CornerRadius="20"
+                   Padding="0"
+                   HasShadow="True"
+                   Margin="10">
+                <CollectionView ItemsSource="{Binding Equipe}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout Margin="0, 10"
+                                         Padding="10">
+                                <Label Text="{Binding Nome}"
+                                       FontSize="16"
+                                       Margin="0, 5"/>
+                                <Label Text="{Binding Classe}"
+                                       FontSize="16"
+                                       Margin="0, 5"/>
+                                <Label Text="{Binding Nivel}"
+                                       FontSize="16"
+                                       Margin="0, 5"/>
+                                <Label Text="{Binding Raca}"
+                                       FontSize="16"
+                                       Margin="0, 5"/>
+                            </StackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

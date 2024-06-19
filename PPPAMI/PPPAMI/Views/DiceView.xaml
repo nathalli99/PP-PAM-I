@@ -1,0 +1,74 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:PPPAMI.ViewModels"
+             x:Class="PPPAMI.Views.DiceView"
+             Title="Dice"
+             BackgroundColor="LightSkyBlue">
+    
+    <ContentPage.BindingContext>
+        <vm:DiceViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30"
+            VerticalOptions="Center">
+
+            <Label
+                Text="Dice Roller"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                FontSize="32"
+                FontAttributes="Bold"
+                TextColor="DarkBlue"/>
+
+            <Image
+                Source="dicemain.svg"
+                SemanticProperties.Description="A dice"
+                HeightRequest="150"
+                HorizontalOptions="Center"
+                Margin="25, 0, 25, 0"/>
+
+            <Label
+                Text="Selecione a quantidade de lados:"
+                Margin="0"
+                FontSize="16"
+                FontFamily="Poppins"/>
+
+            <Picker Title="Lados do Dado" 
+                    ItemsSource="{Binding Sides}"
+                    SelectedItem="{Binding SelectedSides}">
+                <Picker.ItemDisplayBinding>
+                    <Binding />
+                </Picker.ItemDisplayBinding>
+            </Picker>
+
+            <Label
+                Text="Selecione a quantidade de dados:"
+                FontSize="16"/>
+            
+            <Picker Title="Quantidade de Dados" 
+                    ItemsSource="{Binding Quantities}" 
+                    SelectedItem="{Binding SelectedQuantity}">
+                <Picker.ItemDisplayBinding>
+                    <Binding />
+                </Picker.ItemDisplayBinding>
+            </Picker>
+
+            <Button Text="Roll Dice"
+                    Command="{Binding RollDiceCommand}"
+                    FontFamily="Poppins"/>
+
+            <Label 
+                   Text="{Binding ResultString}" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center" 
+                   FontSize="24" 
+                   TextColor="Black"
+                   BackgroundColor="DeepSkyBlue"
+                   Padding="100, 15, 100, 15"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

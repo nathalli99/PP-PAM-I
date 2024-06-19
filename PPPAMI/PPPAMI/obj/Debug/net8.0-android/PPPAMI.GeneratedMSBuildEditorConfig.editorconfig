@@ -12,54 +12,54 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PPPAMI
-build_property.ProjectDir = D:\PP-PAM-I\PPPAMI\PPPAMI\
+build_property.ProjectDir = C:\Users\nathalli\Downloads\PP-PAM-I\PPPAMI\PPPAMI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[D:/PP-PAM-I/PPPAMI/PPPAMI/App.xaml]
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/PP-PAM-I/PPPAMI/PPPAMI/AppShell.xaml]
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/PP-PAM-I/PPPAMI/PPPAMI/Config.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Config.xaml
-build_metadata.AdditionalFiles.TargetPath = Config.xaml
-build_metadata.AdditionalFiles.RelativePath = Config.xaml
-
-[D:/PP-PAM-I/PPPAMI/PPPAMI/Dice.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Dice.xaml
-build_metadata.AdditionalFiles.TargetPath = Dice.xaml
-build_metadata.AdditionalFiles.RelativePath = Dice.xaml
-
-[D:/PP-PAM-I/PPPAMI/PPPAMI/MainPage.xaml]
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/PP-PAM-I/PPPAMI/PPPAMI/Personagem.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Personagem.xaml
-build_metadata.AdditionalFiles.TargetPath = Personagem.xaml
-build_metadata.AdditionalFiles.RelativePath = Personagem.xaml
-
-[D:/PP-PAM-I/PPPAMI/PPPAMI/Resources/Styles/Colors.xaml]
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/PP-PAM-I/PPPAMI/PPPAMI/Resources/Styles/Styles.xaml]
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/Views/ConfigView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Views.ConfigView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ConfigView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ConfigView.xaml
+
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/Views/DiceView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Views.DiceView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DiceView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DiceView.xaml
+
+[C:/Users/nathalli/Downloads/PP-PAM-I/PPPAMI/PPPAMI/Views/PersonagemView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPPAMI.Views.PersonagemView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PersonagemView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PersonagemView.xaml

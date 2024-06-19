@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj": {}
+    "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj": {}
   },
   "projects": {
-    "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj": {
+    "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
+        "projectUniqueName": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
         "projectName": "PPPAMI",
-        "projectPath": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
+        "projectPath": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
         "packagesPath": "C:\\Users\\nathalli\\.nuget\\packages\\",
-        "outputPath": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\obj\\",
+        "outputPath": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -81,7 +81,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )",
+              "version": "[8.0.6, )",
               "autoReferenced": true
             }
           },
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
@@ -124,7 +124,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )",
+              "version": "[8.0.6, )",
               "autoReferenced": true
             }
           },
@@ -147,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
@@ -167,7 +167,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )",
+              "version": "[8.0.6, )",
               "autoReferenced": true
             }
           },
@@ -191,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -234,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
