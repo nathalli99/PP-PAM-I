@@ -1,4 +1,5 @@
-﻿obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dice.png
+﻿obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\book.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dice.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dicemain.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\home.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\joystick.png
@@ -6,6 +7,8 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\personagem.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\personagemview.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\settings.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\time.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\wand.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\book.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dice.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dicemain.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\home.png
@@ -14,6 +17,8 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\personagem.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\personagemview.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\settings.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\time.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\wand.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\book.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dice.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dicemain.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\home.png
@@ -22,6 +27,8 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\personagem.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\personagemview.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\settings.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\time.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\wand.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\book.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dice.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dicemain.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\home.png
@@ -30,6 +37,8 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\personagem.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\personagemview.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\settings.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\time.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\wand.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\book.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dice.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dicemain.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\home.png
@@ -38,6 +47,7 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\personagem.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\personagemview.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\settings.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\time.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\wand.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\appicon.png

@@ -64,6 +64,11 @@ appiconWideTile.scale-125.png
 appiconWideTile.scale-150.png
 appiconWideTile.scale-200.png
 appiconWideTile.scale-400.png
+book.scale-100.png
+book.scale-125.png
+book.scale-150.png
+book.scale-200.png
+book.scale-400.png
 dice.scale-100.png
 dice.scale-125.png
 dice.scale-150.png
@@ -104,6 +109,11 @@ time.scale-125.png
 time.scale-150.png
 time.scale-200.png
 time.scale-400.png
+wand.scale-100.png
+wand.scale-125.png
+wand.scale-150.png
+wand.scale-200.png
+wand.scale-400.png
 splashSplashScreen.scale-100.png
 splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png

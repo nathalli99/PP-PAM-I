@@ -1,73 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\",
+  "WorkspaceRootPath": "D:\\PP-PAM-I\\PPPAMI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\spellsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\spellsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\spellsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\spellsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\models\\personagemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\models\\personagemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\models\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\models\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\viewmodels\\configviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\configviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\configviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\models\\spellmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\models\\spellmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\spellsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\spellsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\personagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\personagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\models\\personagemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\models\\personagemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\models\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\models\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\views\\diceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\diceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\diceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\views\\diceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\diceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\diceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\views\\configview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\configview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\configview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\views\\configview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\configview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\configview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\pppami.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\pppami.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\pppami.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -77,19 +97,19 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|c:\\users\\nathalli\\downloads\\pp-pam-i\\pppami\\pppami\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -100,7 +120,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -116,11 +136,102 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpellsView.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml",
+              "RelativeDocumentMoniker": "PPPAMI\\Views\\SpellsView.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml",
+              "RelativeToolTip": "PPPAMI\\Views\\SpellsView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T07:51:29.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpellsViewModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\SpellsViewModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\SpellsViewModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\SpellsViewModel.cs",
+              "RelativeToolTip": "PPPAMI\\ViewModels\\SpellsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:39:31.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpellModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\SpellModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\Models\\SpellModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\SpellModel.cs",
+              "RelativeToolTip": "PPPAMI\\Models\\SpellModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:37:47.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigViewModel.cs.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
+              "RelativeToolTip": "PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:55:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DiceViewModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "RelativeToolTip": "PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwDkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:46:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpellsView.xaml.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\Views\\SpellsView.xaml.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml.cs",
+              "RelativeToolTip": "PPPAMI\\Views\\SpellsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:51:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonagemView.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\PersonagemView.xaml",
+              "RelativeDocumentMoniker": "PPPAMI\\Views\\PersonagemView.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\PersonagemView.xaml",
+              "RelativeToolTip": "PPPAMI\\Views\\PersonagemView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T07:54:17.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PersonagemModel.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\PersonagemModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\PersonagemModel.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Models\\PersonagemModel.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\PersonagemModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\PersonagemModel.cs",
               "RelativeToolTip": "PPPAMI\\Models\\PersonagemModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "DiceModel.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Models\\DiceModel.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
               "RelativeToolTip": "PPPAMI\\Models\\DiceModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,67 +253,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConfigViewModel.cs.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
-              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
-              "RelativeToolTip": "PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T07:55:35.195Z",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
+              "RelativeToolTip": "PPPAMI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T21:10:15.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml.cs",
               "RelativeToolTip": "PPPAMI\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:19:05.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:19:05.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DiceViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "RelativeToolTip": "PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T07:46:03.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "DiceView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\DiceView.xaml.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml.cs",
               "RelativeToolTip": "PPPAMI\\Views\\DiceView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T07:45:58.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T07:45:58.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
@@ -210,11 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ConfigView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\ConfigView.xaml.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml.cs",
               "RelativeToolTip": "PPPAMI\\Views\\ConfigView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ConfigView.xaml",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\ConfigView.xaml",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml",
               "RelativeToolTip": "PPPAMI\\Views\\ConfigView.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -234,49 +326,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Personagem.xaml.cs",
               "DocumentMoniker": "C:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
               "ToolTip": "C:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T23:21:04.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml",
               "RelativeToolTip": "PPPAMI\\MainPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T21:18:08.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T21:18:08.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
-              "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
-              "RelativeToolTip": "PPPAMI\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T21:10:15.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "DiceView.xaml",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\DiceView.xaml",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml",
               "RelativeToolTip": "PPPAMI\\Views\\DiceView.xaml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAEMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -284,11 +360,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\MauiProgram.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MauiProgram.cs",
               "RelativeDocumentMoniker": "PPPAMI\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\MauiProgram.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MauiProgram.cs",
               "RelativeToolTip": "PPPAMI\\MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,11 +372,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml.cs",
               "RelativeToolTip": "PPPAMI\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,11 +384,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "PPPAMI.csproj",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
               "RelativeDocumentMoniker": "PPPAMI\\PPPAMI.csproj",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
               "RelativeToolTip": "PPPAMI\\PPPAMI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -320,11 +396,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\App.xaml",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml",
               "RelativeToolTip": "PPPAMI\\App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -332,23 +408,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AQIAAOAAAAAAAAAAAAD4vwoBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-05-16T05:56:08.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml.cs",
               "RelativeToolTip": "PPPAMI\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,11 +430,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Styles.xaml",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Resources\\Styles\\Styles.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Resources\\Styles\\Styles.xaml",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Resources\\Styles\\Styles.xaml",
               "RelativeToolTip": "PPPAMI\\Resources\\Styles\\Styles.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -368,11 +442,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainApplication.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainApplication.cs",
               "RelativeToolTip": "PPPAMI\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,11 +454,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainActivity.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainActivity.cs",
               "RelativeToolTip": "PPPAMI\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,11 +466,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PPPAMI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Properties\\launchSettings.json",
               "RelativeToolTip": "PPPAMI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPPAMI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b89f7e3b94185d89bbcaaeda1ffbd584abd62242")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8160c28eb06e8c7a07dedb9a36392a3afef39078")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPPAMI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPPAMI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

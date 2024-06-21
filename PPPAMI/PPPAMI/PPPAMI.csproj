@@ -74,6 +74,7 @@
 	  <None Remove="Resources\Fonts\Poppins-SemiBoldItalic.ttf" />
 	  <None Remove="Resources\Fonts\Poppins-Thin.ttf" />
 	  <None Remove="Resources\Fonts\Poppins-ThinItalic.ttf" />
+	  <None Remove="Resources\Images\book.svg" />
 	  <None Remove="Resources\Images\dice.svg" />
 	  <None Remove="Resources\Images\dicemain.svg" />
 	  <None Remove="Resources\Images\home.svg" />
@@ -82,6 +83,7 @@
 	  <None Remove="Resources\Images\personagemview.svg" />
 	  <None Remove="Resources\Images\settings.svg" />
 	  <None Remove="Resources\Images\time.svg" />
+	  <None Remove="Resources\Images\wand.svg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -98,6 +100,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\PersonagemView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\SpellsView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

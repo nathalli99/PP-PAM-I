@@ -1,1 +1,1 @@
-C:\Users\nathalli\Downloads\PP-PAM-I\PPPAMI\PPPAMI\PPPAMI.csproj;x64
+D:\PP-PAM-I\PPPAMI\PPPAMI\PPPAMI.csproj;x64

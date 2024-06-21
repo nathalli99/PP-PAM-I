@@ -20,6 +20,9 @@
     <MauiXaml Update="Views\PersonagemView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\SpellsView.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
   <ItemGroup>
     <None Update="App.xaml">

@@ -32924,11 +32924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
+      "projectUniqueName": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
       "projectName": "PPPAMI",
-      "projectPath": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
+      "projectPath": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
       "packagesPath": "C:\\Users\\nathalli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nathalli\\Downloads\\PP-PAM-I\\PPPAMI\\PPPAMI\\obj\\",
+      "outputPath": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

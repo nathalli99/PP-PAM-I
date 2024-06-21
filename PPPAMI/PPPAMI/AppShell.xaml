@@ -23,6 +23,12 @@
                           Route="PersonagemView"/>
         </Tab>
 
+        <Tab Title="Sorcery" Icon="wand.svg">
+            <ShellContent Title="Spells" 
+                          ContentTemplate="{DataTemplate local:SpellsView}"
+                          Route="SpellsView"/>
+        </Tab>
+
         <Tab Title="Options" Icon="settings.svg">
             <ShellContent Title="Options"
                           ContentTemplate="{DataTemplate local:ConfigView}"
