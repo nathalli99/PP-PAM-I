@@ -2,9 +2,9 @@
 
 Projeto avaliativo da matéria PAM do curso de Desenvolvimento de Sistemas da Etec.
 ## Inicio
-![Inicio](https://github.com/nathalli99/PP-PAM-I/assets/124949105/0412c1d3-433a-46f0-8735-c0e78d0c211c)
+![Inicio](https://github.com/nathalli99/PP-PAM-I/assets/124949105/ac470d2e-e9bc-45e5-b5de-363712789f85)
 ## Home
-![Home](https://github.com/nathalli99/PP-PAM-I/assets/124949105/2a72a18d-8bdd-4a57-b810-ddfc7ae2a41a)
+![Home](https://github.com/nathalli99/PP-PAM-I/assets/124949105/1ac80dd7-20f5-4c4b-b29a-617460994a52)
 # Parte III
 ## Interface
 ![spell1](https://github.com/nathalli99/PP-PAM-I/assets/124949105/020e4d5c-fb0b-4b70-95cf-197e2971caa9)
