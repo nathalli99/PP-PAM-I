@@ -5,20 +5,22 @@ Projeto avaliativo da matéria PAM do curso de Desenvolvimento de Sistemas da Et
 ![Inicio](https://github.com/nathalli99/PP-PAM-I/assets/124949105/0412c1d3-433a-46f0-8735-c0e78d0c211c)
 ## Home
 ![Home](https://github.com/nathalli99/PP-PAM-I/assets/124949105/2a72a18d-8bdd-4a57-b810-ddfc7ae2a41a)
+# Parte III
+## Interface
+![spell1](https://github.com/nathalli99/PP-PAM-I/assets/124949105/020e4d5c-fb0b-4b70-95cf-197e2971caa9)
+![spell2](https://github.com/nathalli99/PP-PAM-I/assets/124949105/025b9788-445a-418a-9466-01a14ddbcf6f)
 # Parte II
 ## Interface
-![Interface](https://github.com/nathalli99/PP-PAM-I/assets/124949105/08989955-e5da-4b5f-89ba-c0c562b8e3bc)
+![Interface](https://github.com/nathalli99/PP-PAM-I/assets/124949105/c93f0b93-9076-4567-9c5a-0f6367dce356)
 ## Cadastro Personagem
-![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/1ac5a831-2bb8-4c8c-a91f-f3b27fda3963)
-![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/327d8650-b5f8-4ad1-885c-2fd89dd686dd)
+![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/d027410f-1e1a-4253-b70a-6ae9668d6641)
+![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/c0ee7263-e7b1-4c35-8be0-f1664e519587)
 ## Aviso ao tentar cadastrar um personagem com o mesmo nome
-![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/c5e64014-f336-4e56-8973-577d24a8d333)
-## Lista Personagens Cadastrados
-![ListaPersonagensCadastrados](https://github.com/nathalli99/PP-PAM-I/assets/124949105/f9a5aa8c-71da-4848-b0a5-00d713701172)
+![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/05ed0f53-8dcf-4c3a-a5f4-6073a92fe6ef)
 ## Listagem Time
-![ListagemTime](https://github.com/nathalli99/PP-PAM-I/assets/124949105/9f024e17-0cd7-4120-9f04-2607e5bd2b10)
+![ListagemTime](https://github.com/nathalli99/PP-PAM-I/assets/124949105/5981981d-6328-49dc-a33a-9cde7f757f15)
 ## Aviso ao atingir o limite de 5 personagens por time
-![Aviso Limite de Personagens por Time](https://github.com/nathalli99/PP-PAM-I/assets/124949105/78456fcf-5dc2-4d2c-8ae4-397688454b5b)
+![Aviso Limite de Personagens por Time](https://github.com/nathalli99/PP-PAM-I/assets/124949105/8cc1976e-5f34-4819-8139-312f812c6d0f)
 # Parte I
 ## Interface
 ![Interface](https://github.com/nathalli99/PP-PAM-I/assets/124949105/819c9fd7-2481-456f-8ab2-ff056ed0b5f9)
