@@ -81,17 +81,30 @@ namespace PPPAMI.ViewModels
             spellDetails = new ObservableCollection<SpellDetailModel>();
             Levels = new ObservableCollection<string>
             {
-                "1", "2", "3", "4", "5", "6", "7", "8", "9"
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
             };
             Schools = new ObservableCollection<string>
             {
-                "Abjuration", "Conjuration", "Divination", "Enchantment",
-                "Evocation", "Illusion", "Necromancy", "Transmutation"
+                "Abjuration",
+                "Conjuration",
+                "Divination",
+                "Enchantment",
+                "Evocation",
+                "Illusion",
+                "Necromancy",
+                "Transmutation"
             };
 
             FilterSpellsCommand = new Command(async () => await FetchSpellsAsync());
 
-            // Fetch initial spells
             FetchSpellsAsync();
         }
 
@@ -139,7 +152,7 @@ namespace PPPAMI.ViewModels
                 }
                 else
                 {
-                    Spells.Clear(); // Limpar a coleção se nenhum feitiço for encontrado
+                    Spells.Clear();
                 }
             }
             catch (Exception ex)

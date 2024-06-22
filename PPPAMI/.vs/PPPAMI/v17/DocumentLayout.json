@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\PP-PAM-I\\PPPAMI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\configviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\configviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\personagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\personagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\spellsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\spellsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\spellsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\spellsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\views\\spellsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\spellsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\spellsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\spellsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\models\\spellmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\views\\personagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\configviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\configviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\models\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\models\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\viewmodels\\diceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|solutionrelative:pppami\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1403D61A-8DDC-4D52-B131-2FBC12B848BB}|PPPAMI\\PPPAMI.csproj|d:\\pp-pam-i\\pppami\\pppami\\models\\personagemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -120,7 +124,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -136,77 +140,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SpellsView.xaml",
-              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml",
-              "RelativeDocumentMoniker": "PPPAMI\\Views\\SpellsView.xaml",
-              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml",
-              "RelativeToolTip": "PPPAMI\\Views\\SpellsView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-20T07:51:29.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SpellModel.cs",
-              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\SpellModel.cs",
-              "RelativeDocumentMoniker": "PPPAMI\\Models\\SpellModel.cs",
-              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\SpellModel.cs",
-              "RelativeToolTip": "PPPAMI\\Models\\SpellModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T07:37:47.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SpellsView.xaml.cs",
-              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml.cs",
-              "RelativeDocumentMoniker": "PPPAMI\\Views\\SpellsView.xaml.cs",
-              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml.cs",
-              "RelativeToolTip": "PPPAMI\\Views\\SpellsView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T07:51:30.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SpellsViewModel.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\SpellsViewModel.cs",
               "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\SpellsViewModel.cs",
               "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\SpellsViewModel.cs",
               "RelativeToolTip": "PPPAMI\\ViewModels\\SpellsViewModel.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAAAMEAAAAAAAAA",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAFYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T07:39:31.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T07:39:31.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DiceModel.cs",
-              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
-              "RelativeDocumentMoniker": "PPPAMI\\Models\\DiceModel.cs",
-              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
-              "RelativeToolTip": "PPPAMI\\Models\\DiceModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "DiceViewModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "RelativeToolTip": "PPPAMI\\ViewModels\\DiceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T07:55:38.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T07:46:03.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConfigViewModel.cs.cs",
-              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
-              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
-              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
-              "RelativeToolTip": "PPPAMI\\ViewModels\\ConfigViewModel.cs.cs",
+              "DocumentIndex": 1,
+              "Title": "ConfigViewModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\ConfigViewModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\ConfigViewModel.cs",
+              "RelativeToolTip": "PPPAMI\\ViewModels\\ConfigViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T07:55:35.195Z",
@@ -214,7 +177,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "SpellsView.xaml.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\Views\\SpellsView.xaml.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml.cs",
+              "RelativeToolTip": "PPPAMI\\Views\\SpellsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:51:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
+              "RelativeToolTip": "PPPAMI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T21:10:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonagemViewModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\PersonagemViewModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\PersonagemViewModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\PersonagemViewModel.cs",
+              "RelativeToolTip": "PPPAMI\\ViewModels\\PersonagemViewModel.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:56:25.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpellModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\SpellModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\Models\\SpellModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\SpellModel.cs",
+              "RelativeToolTip": "PPPAMI\\Models\\SpellModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:37:47.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpellsView.xaml",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml",
+              "RelativeDocumentMoniker": "PPPAMI\\Views\\SpellsView.xaml",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\SpellsView.xaml",
+              "RelativeToolTip": "PPPAMI\\Views\\SpellsView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T07:51:29.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiceModel.cs",
+              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
+              "RelativeDocumentMoniker": "PPPAMI\\Models\\DiceModel.cs",
+              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\DiceModel.cs",
+              "RelativeToolTip": "PPPAMI\\Models\\DiceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:55:38.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PersonagemView.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\PersonagemView.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\PersonagemView.xaml",
@@ -222,24 +258,11 @@
               "RelativeToolTip": "PPPAMI\\Views\\PersonagemView.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-20T07:54:17.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T07:54:17.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DiceViewModel.cs",
-              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "RelativeDocumentMoniker": "PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "RelativeToolTip": "PPPAMI\\ViewModels\\DiceViewModel.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAcwDkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T07:46:03.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PersonagemModel.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Models\\PersonagemModel.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Models\\PersonagemModel.cs",
@@ -251,19 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
-              "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml",
-              "ToolTip": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml",
-              "RelativeToolTip": "PPPAMI\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T21:10:15.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\MainPage.xaml.cs",
@@ -275,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DiceView.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\DiceView.xaml.cs",
@@ -287,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\AndroidManifest.xml",
@@ -299,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ConfigView.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\ConfigView.xaml.cs",
@@ -311,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ConfigView.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\ConfigView.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\ConfigView.xaml",
@@ -323,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Personagem.xaml.cs",
               "DocumentMoniker": "C:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
               "ToolTip": "C:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Personagem.xaml.cs",
@@ -333,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MainPage.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\MainPage.xaml",
@@ -345,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DiceView.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Views\\DiceView.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Views\\DiceView.xaml",
@@ -357,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\MauiProgram.cs",
               "RelativeDocumentMoniker": "PPPAMI\\MauiProgram.cs",
@@ -369,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\AppShell.xaml.cs",
@@ -381,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "PPPAMI.csproj",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\PPPAMI.csproj",
               "RelativeDocumentMoniker": "PPPAMI\\PPPAMI.csproj",
@@ -393,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\App.xaml",
@@ -405,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -415,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\App.xaml.cs",
               "RelativeDocumentMoniker": "PPPAMI\\App.xaml.cs",
@@ -427,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Styles.xaml",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "PPPAMI\\Resources\\Styles\\Styles.xaml",
@@ -439,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\MainApplication.cs",
@@ -451,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "PPPAMI\\Platforms\\Android\\MainActivity.cs",
@@ -463,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\PP-PAM-I\\PPPAMI\\PPPAMI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PPPAMI\\Properties\\launchSettings.json",

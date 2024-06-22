@@ -1,9 +1,7 @@
-﻿using System.Collections.ObjectModel;
+﻿using PPPAMI.Models;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Windows.Input;
-using PPPAMI.Models;
-using Microsoft.Maui.Controls;
-using System.Linq;
 
 namespace PPPAMI.ViewModels
 {
