@@ -45,7 +45,8 @@
                      Maximum="10"
                      Minimum="1"
                      Increment="1"
-                     Value="{Binding Nivel, Mode=TwoWay}" />
+                     Value="{Binding Nivel, 
+                     Mode=TwoWay}" />
 
             <Label Text="Raça do Aventureiro" />
             <Picker x:Name="racaPicker"

@@ -2,10 +2,8 @@
 {
     public class SpellModel
     {
+        public string Index { get; set; } = string.Empty;
         public string Name { get; set; } = string.Empty;
-        public string Level { get; set; } = string.Empty;
-        public string School { get; set; } = string.Empty;
-
-        public string Detail => $"Level: {Level}, School: {School}";
+        public string Url { get; set; } = string.Empty;
     }
 }

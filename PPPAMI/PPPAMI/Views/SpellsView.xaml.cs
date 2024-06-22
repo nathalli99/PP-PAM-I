@@ -1,3 +1,5 @@
+using PPPAMI.ViewModels;
+
 namespace PPPAMI.Views
 {
     public partial class SpellsView : ContentPage
@@ -5,6 +7,7 @@ namespace PPPAMI.Views
         public SpellsView()
         {
             InitializeComponent();
+            BindingContext = new SpellsViewModel();
         }
     }
 }

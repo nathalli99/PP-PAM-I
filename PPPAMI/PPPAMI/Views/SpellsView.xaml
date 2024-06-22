@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:PPPAMI.ViewModels"
@@ -9,56 +10,59 @@
         <local:SpellsViewModel />
     </ContentPage.BindingContext>
 
-    <ScrollView>
-        <VerticalStackLayout Padding="20">
-            <Label
-                Text="Filtrar Magias"
+    <StackLayout Padding="10">
+        <Label Text="Filtrar Magias"
                 Margin="0, 15, 0, 0"
                 FontSize="24"
                 FontAttributes="Bold"
                 TextColor="DarkBlue"
                 FontFamily="Poppins"
-                HorizontalTextAlignment="Center"/>
+                HorizontalTextAlignment="Center" />
 
-            <Image
-                x:Name="spellsbook"
+        <Image x:Name="spellsbook"
                 Source="book.svg"
                 SemanticProperties.Description="Magic Book"
                 HeightRequest="200"
                 HorizontalOptions="Center"
                 Margin="25, 10, 25, 10"/>
 
-            <Label Text="Nível da Magia" />
-            <Picker x:Name="levelPicker"
-                    ItemsSource="{Binding Levels}"
-                    SelectedItem="{Binding SelectedLevel}"/>
+        <Picker Title="Nível da Magia" 
+                ItemsSource="{Binding Levels}" 
+                SelectedItem="{Binding SelectedLevel}"
+                Margin="10"/>
 
-            <Label Text="Escola da Magia" />
-            <Picker x:Name="schoolPicker"
-                    ItemsSource="{Binding Schools}"
-                    SelectedItem="{Binding SelectedSchool}"/>
+        <Picker Title="Escola da Magia" 
+                ItemsSource="{Binding Schools}" 
+                SelectedItem="{Binding SelectedSchool}"
+                Margin="10"/>
 
-            <Button Text="Filtrar Magia"
-                    FontAttributes="Bold"
-                    FontFamily="Poppins"
-                    FontSize="17"
-                    Command="{Binding FilterSpellsCommand}"
-                    Margin="0, 20, 0, 5"/>
+        <Button Text="Filtrar Magia" 
+                Command="{Binding FilterSpellsCommand}"
+                FontAttributes="Bold"
+                FontFamily="Poppins"
+                FontSize="17"
+                Margin="10"/>
 
-            <Label Text="Lista de Magias" 
-                   FontSize="16" 
-                   HorizontalOptions="Center"
-                   FontAttributes="Bold"
-                   Margin="0, 20, 0, 5" />
+        <CollectionView ItemsSource="{Binding Spells}"
+                SelectedItem="{Binding SelectedSpell}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding Name}" FontSize="Medium" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
 
-            <ListView x:Name="spellsListView"
-                      ItemsSource="{Binding Spells}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <TextCell Text="{Binding Name}" Detail="{Binding Detail}" />
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </VerticalStackLayout>
-    </ScrollView>
+        <CollectionView ItemsSource="{Binding SpellDetails}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding Name}" FontSize="Medium" />
+                        <Label Text="{Binding Description}" FontSize="Small" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
 </ContentPage>

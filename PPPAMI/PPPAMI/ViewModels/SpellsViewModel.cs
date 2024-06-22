@@ -1,6 +1,7 @@
 ﻿using PPPAMI.Models;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Text.Json;
 using System.Windows.Input;
 
@@ -8,164 +9,185 @@ namespace PPPAMI.ViewModels
 {
     public class SpellsViewModel : INotifyPropertyChanged
     {
-        private string _selectedLevel;
-        private string _selectedSchool;
+        public event PropertyChangedEventHandler PropertyChanged;
 
-        public ObservableCollection<string> Levels { get; }
-        public ObservableCollection<string> Schools { get; }
-        public ObservableCollection<SpellModel> Spells { get; }
+        private ObservableCollection<SpellModel> spells;
+        public ObservableCollection<SpellModel> Spells
+        {
+            get => spells;
+            set
+            {
+                spells = value;
+                OnPropertyChanged(nameof(Spells));
+            }
+        }
 
+        private ObservableCollection<SpellDetailModel> spellDetails;
+        public ObservableCollection<SpellDetailModel> SpellDetails
+        {
+            get => spellDetails;
+            set
+            {
+                spellDetails = value;
+                OnPropertyChanged(nameof(SpellDetails));
+            }
+        }
+
+        private string selectedLevel;
         public string SelectedLevel
         {
-            get => _selectedLevel;
+            get => selectedLevel;
             set
             {
-                if (_selectedLevel != value)
+                selectedLevel = value;
+                OnPropertyChanged(nameof(SelectedLevel));
+            }
+        }
+
+        private string selectedSchool;
+        public string SelectedSchool
+        {
+            get => selectedSchool;
+            set
+            {
+                selectedSchool = value;
+                OnPropertyChanged(nameof(SelectedSchool));
+            }
+        }
+
+        private SpellModel selectedSpell;
+        public SpellModel SelectedSpell
+        {
+            get => selectedSpell;
+            set
+            {
+                selectedSpell = value;
+                OnPropertyChanged(nameof(SelectedSpell));
+                if (selectedSpell != null)
                 {
-                    _selectedLevel = value;
-                    OnPropertyChanged(nameof(SelectedLevel));
+                    FetchSpellDetailsAsync(selectedSpell.Index);
                 }
             }
         }
 
-        public string SelectedSchool
-        {
-            get => _selectedSchool;
-            set
-            {
-                if (_selectedSchool != value)
-                {
-                    _selectedSchool = value;
-                    OnPropertyChanged(nameof(SelectedSchool));
-                }
-            }
-        }
+        public ObservableCollection<string> Levels { get; set; }
+        public ObservableCollection<string> Schools { get; set; }
 
         public ICommand FilterSpellsCommand { get; }
 
         public SpellsViewModel()
         {
-            Levels = new ObservableCollection<string> { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
-            Schools = new ObservableCollection<string> { "abjuration", "conjuration", "divination", "enchantment", "evocation", "illusion", "necromancy", "transmutation" };
-            Spells = new ObservableCollection<SpellModel>();
+            spells = new ObservableCollection<SpellModel>();
+            spellDetails = new ObservableCollection<SpellDetailModel>();
+            Levels = new ObservableCollection<string>
+            {
+                "1", "2", "3", "4", "5", "6", "7", "8", "9"
+            };
+            Schools = new ObservableCollection<string>
+            {
+                "Abjuration", "Conjuration", "Divination", "Enchantment",
+                "Evocation", "Illusion", "Necromancy", "Transmutation"
+            };
 
-            FilterSpellsCommand = new Command(async () => await FilterSpells());
+            FilterSpellsCommand = new Command(async () => await FetchSpellsAsync());
 
-            // Carregar todas as magias ao iniciar
-            _ = LoadAllSpells();
+            // Fetch initial spells
+            FetchSpellsAsync();
         }
 
-        private async Task LoadAllSpells()
+        private async Task FetchSpellsAsync()
         {
+            var client = new HttpClient();
+            string url = "https://www.dnd5eapi.co/api/spells";
+
+            if (!string.IsNullOrEmpty(SelectedLevel) || !string.IsNullOrEmpty(SelectedSchool))
+            {
+                url += "?";
+                if (!string.IsNullOrEmpty(SelectedLevel))
+                {
+                    url += $"level={SelectedLevel}&";
+                }
+                if (!string.IsNullOrEmpty(SelectedSchool))
+                {
+                    url += $"school={SelectedSchool}&";
+                }
+                url = url.TrimEnd('&');
+            }
+
+            Debug.WriteLine($"Constructed URL: {url}");
+
+            var request = new HttpRequestMessage(HttpMethod.Get, url);
+            request.Headers.Add("Accept", "application/json");
+
             try
             {
-                using (HttpClient client = new HttpClient())
+                var response = await client.SendAsync(request);
+                response.EnsureSuccessStatusCode();
+
+                var content = await response.Content.ReadAsStringAsync();
+                var spellList = JsonSerializer.Deserialize<SpellListResponse>(content);
+
+                Debug.WriteLine($"Spells retrieved: {spellList?.Results?.Count ?? 0}");
+
+                if (spellList?.Results != null && spellList.Results.Count > 0)
                 {
-                    string url = "https://www.dnd5eapi.co/api/spells";
-                    var response = await client.GetStringAsync(url);
-                    var spells = JsonSerializer.Deserialize<SpellApiResponse>(response);
-
-                    if (spells?.Results != null)
+                    Spells.Clear();
+                    foreach (var spell in spellList.Results)
                     {
-                        Spells.Clear();
-                        foreach (var spell in spells.Results)
-                        {
-                            var spellDetail = await client.GetStringAsync($"https://www.dnd5eapi.co{spell.Url}");
-                            var spellDetailObj = JsonSerializer.Deserialize<SpellDetail>(spellDetail);
-
-                            if (spellDetailObj != null)
-                            {
-                                Spells.Add(new SpellModel
-                                {
-                                    Name = spellDetailObj.Name,
-                                    Level = spellDetailObj.Level.ToString(),
-                                    School = spellDetailObj.School.Name
-                                });
-                            }
-                        }
+                        Spells.Add(spell);
                     }
+                }
+                else
+                {
+                    Spells.Clear(); // Limpar a coleção se nenhum feitiço for encontrado
                 }
             }
             catch (Exception ex)
             {
-                // Handle exceptions (e.g., logging, user notification)
-                System.Diagnostics.Debug.WriteLine($"Error fetching spells: {ex.Message}");
+                Debug.WriteLine($"Error fetching spells: {ex.Message}");
             }
         }
 
-        private async Task FilterSpells()
+        private async Task FetchSpellDetailsAsync(string spellIndex)
         {
-            if (string.IsNullOrEmpty(SelectedLevel) || string.IsNullOrEmpty(SelectedSchool))
-            {
-                // Handle case where no level or school is selected
-                return;
-            }
+            var client = new HttpClient();
+            string url = $"https://www.dnd5eapi.co/api/spells/{spellIndex}";
+
+            var request = new HttpRequestMessage(HttpMethod.Get, url);
+            request.Headers.Add("Accept", "application/json");
 
             try
             {
-                using (HttpClient client = new HttpClient())
-                {
-                    string url = $"https://www.dnd5eapi.co/api/spells?level={SelectedLevel}&school={SelectedSchool}";
-                    var response = await client.GetStringAsync(url);
-                    var spells = JsonSerializer.Deserialize<SpellApiResponse>(response);
+                var response = await client.SendAsync(request);
+                response.EnsureSuccessStatusCode();
 
-                    if (spells?.Results != null)
-                    {
-                        Spells.Clear();
-                        foreach (var spell in spells.Results)
-                        {
-                            var spellDetail = await client.GetStringAsync($"https://www.dnd5eapi.co{spell.Url}");
-                            var spellDetailObj = JsonSerializer.Deserialize<SpellDetail>(spellDetail);
+                var content = await response.Content.ReadAsStringAsync();
+                var spellDetail = JsonSerializer.Deserialize<SpellDetailModel>(content);
 
-                            if (spellDetailObj != null)
-                            {
-                                Spells.Add(new SpellModel
-                                {
-                                    Name = spellDetailObj.Name,
-                                    Level = spellDetailObj.Level.ToString(),
-                                    School = spellDetailObj.School.Name
-                                });
-                            }
-                        }
-                    }
-                }
+                SpellDetails.Clear();
+                SpellDetails.Add(spellDetail);
             }
             catch (Exception ex)
             {
-                // Handle exceptions (e.g., logging, user notification)
-                System.Diagnostics.Debug.WriteLine($"Error fetching spells: {ex.Message}");
+                Debug.WriteLine($"Error fetching spell details: {ex.Message}");
             }
         }
-
-        public event PropertyChangedEventHandler PropertyChanged;
 
         protected virtual void OnPropertyChanged(string propertyName)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+    }
 
-        private class SpellApiResponse
-        {
-            public List<SpellResult>? Results { get; set; }
-        }
+    public class SpellListResponse
+    {
+        public List<SpellModel> Results { get; set; }
+    }
 
-        private class SpellResult
-        {
-            public string Url { get; set; } = string.Empty;
-        }
-
-        private class SpellDetail
-        {
-            public string Name { get; set; } = string.Empty;
-            public int Level { get; set; }
-            public School? School { get; set; }
-        }
-
-        private class School
-        {
-            public string Name { get; set; } = string.Empty;
-        }
+    public class SpellDetailModel
+    {
+        public string Index { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
     }
 }
-
-
