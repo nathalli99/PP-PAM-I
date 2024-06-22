@@ -16,7 +16,7 @@ Projeto avaliativo da matéria PAM do curso de Desenvolvimento de Sistemas da Et
 ![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/d027410f-1e1a-4253-b70a-6ae9668d6641)
 ![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/c0ee7263-e7b1-4c35-8be0-f1664e519587)
 ## Aviso ao tentar cadastrar um personagem com o mesmo nome
-![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/05ed0f53-8dcf-4c3a-a5f4-6073a92fe6ef)
+![Cadastro](https://github.com/nathalli99/PP-PAM-I/assets/124949105/8f3b414c-214a-411a-821d-1598a83ea1be)
 ## Listagem Time
 ![ListagemTime](https://github.com/nathalli99/PP-PAM-I/assets/124949105/5981981d-6328-49dc-a33a-9cde7f757f15)
 ## Aviso ao atingir o limite de 5 personagens por time
